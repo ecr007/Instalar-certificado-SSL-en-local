@@ -96,3 +96,10 @@ Edit the Virtual Hosts file `/etc/apache2/extra/httpd-vhosts.conf` and add the S
 
 Finally restart Apache using **Terminal**.app : `sudo apachectl restart`  
 Open Safari and visit [https://localhost](https://localhost) to verify your configuration.
+
+## EC Note
+Tener en cuenta los archivos:
+
+/Volumes/DISK/Config Apache/apache2/extra/httpd-ssl.conf<br>
+/Volumes/DISK/Config Apache/apache2/extra/httpd-vhosts.conf<br>
+/Volumes/DISK/Config Apache/apache2/httpd.conf<br>
