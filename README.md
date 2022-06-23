@@ -103,3 +103,4 @@ Tener en cuenta los archivos:
 /Volumes/DISK/Config Apache/apache2/extra/httpd-ssl.conf<br>
 /Volumes/DISK/Config Apache/apache2/extra/httpd-vhosts.conf<br>
 /Volumes/DISK/Config Apache/apache2/httpd.conf<br>
+/usr/local/etc/httpd <- Route of HTTPD
